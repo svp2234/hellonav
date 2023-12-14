@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hellonav/static/css/main.e6c13ad2.css",
+    "main.js": "/hellonav/static/js/main.e130947e.js",
+    "index.html": "/hellonav/index.html",
+    "main.e6c13ad2.css.map": "/hellonav/static/css/main.e6c13ad2.css.map",
+    "main.e130947e.js.map": "/hellonav/static/js/main.e130947e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e130947e.js"
+  ]
+}
